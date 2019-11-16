@@ -1,0 +1,11 @@
+
+Scan Time:     2019-11-16 17:50:06
+Target File:   /opt/firmware-mod-kit/trunk/AC15_V15.03.05.19-9061.bin
+MD5 Checksum:  cad2e1e6277dd169197ad0f5f5e9e6fd
+Signatures:    344
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+64            0x40            TRX firmware header, little endian, image size: 11030528 bytes, CRC32: 0xAD34F90E, flags: 0x0, version: 1, header size: 28 bytes, loader offset: 0x1C, linux kernel offset: 0x1E5DE4, rootfs offset: 0x0
+92            0x5C            LZMA compressed data, properties: 0x5D, dictionary size: 65536 bytes, uncompressed size: 4863008 bytes
+1990180       0x1E5E24        Squashfs filesystem, little endian, version 4.0, compression:xz, size: 9036502 bytes, 987 inodes, blocksize: 131072 bytes, created: 2019-01-15 05:11:33
+

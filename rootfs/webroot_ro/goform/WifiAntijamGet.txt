@@ -1,0 +1,4 @@
+{
+   "WifiAntijamEn": "true",   
+   "wifiEnable":"1"  
+}
