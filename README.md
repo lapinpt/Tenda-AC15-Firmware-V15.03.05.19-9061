@@ -1,6 +1,6 @@
 # Tenda-AC15-Firmware-V15.03.05.19-9061
 
-AC15 Firmware V15.03.05.19(9061)_EN (for EU)
+Tenda AC15 Firmware V15.03.05.19(9061)_EN (for EU)
 
 TELNET Tenda.lan
 USER root
